@@ -1,7 +1,6 @@
 package com.holidaycheck.main
 
 import com.holidaycheck.spark.DataIngestion
-import com.typesafe.config.ConfigFactory
 import org.apache.log4j.Logger
 
 /**

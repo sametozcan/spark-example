@@ -1,6 +1,5 @@
 package com.holidaycheck.spark
 
-import com.typesafe.config.ConfigFactory
 import org.apache.log4j.Logger
 import org.apache.spark.SparkContext
 import org.apache.spark.sql.functions._
